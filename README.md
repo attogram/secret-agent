@@ -18,4 +18,4 @@ https://github.com/attogram/secret-agent/issues/1
 
 You can cite all versions by using the DOI 10.5281/zenodo.21401951. This DOI represents all versions, and will always resolve to the latest one.
 
-https://zenodo.org/records/21401955
+https://zenodo.org/records/21401951
