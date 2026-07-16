@@ -14,7 +14,13 @@ https://github.com/attogram/secret-agent/issues/2
 1. node man
 2. node fran
 3. node tan van
-4. more soon
+4. node frying pan
+5. node stand
+6. node replan
+7. node nederlan(d)
+8. node hand
+9. node fan
+10. node flan
 
 ---
 
